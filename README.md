@@ -3,6 +3,7 @@
 This AI-powered app helps students and nature enthusiasts identify and explore tree species based on image, location, and tree attributes.
 
 ---
+model.h5 file goole drive link:https://drive.google.com/file/d/1JmRxAMfc7Bb2eNM200kZUxUmHjmegdHQ/view?usp=sharing
 
 ## 🧠 Features
 
